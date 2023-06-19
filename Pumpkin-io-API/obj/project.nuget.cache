@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "J/KA1rsCQNuGU2fdfYhrzKBddnjjdTxArRHUFJmsIj4+Wm98BWHRY6AwcZTOKP2UU1vlBqeOBF29zq+s7P7mTQ==",
+  "dgSpecHash": "o6AgiigE/hjP+AvvkKxrSjixt4VliDeayjitjX9in9ufpQL6Q3g7sEDA/dByqbDIBQ2AZrE3paUWJPqPUEtiiQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\mazi7\\Documents\\Documents\\Technical-Assesments\\Pumpkin-io-API\\Pumpkin-io-API\\Pumpkin-io-API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mazi7\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\mazi7\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mazi7\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\mazi7\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\mazi7\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\mazi7\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
